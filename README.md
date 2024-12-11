@@ -1,1 +1,2 @@
-# ECSE_6320_FINAL_PROJECT
+# DCT-Based Image Compression
+This project implements a Discrete Cosine Transform (DCT)-based image compression algorithm in Python. The goal is to demonstrate how DCT, quantization, and subsampling can reduce file sizes while maintaining visually acceptable image quality. The program processes images by separating their luminance and chrominance components, applying DCT-based compression, and reconstructing the images.
